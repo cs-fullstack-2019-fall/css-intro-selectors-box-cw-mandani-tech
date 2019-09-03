@@ -1,0 +1,29 @@
+p{
+    background-color: grey;
+    margin-right: 10%;
+}
+
+.second_paragraph{
+    background-color: blue;
+    text-align: center;
+}
+
+selector
+{
+    background-color: pink;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#jibber
+{
+    text-align: center;
+    margin-left: 250px;
+    margin-right: 250px;
+    margin-top:  50px;
+    margin-bottom: 50px;
+    border: 3px dashed blue;
+    padding:10px
+
+
+}
